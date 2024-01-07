@@ -5,15 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
-abcde
+- Rong Ding, Haiming Jin, **Jianrong Ding**, Xiaocheng Wang, Guiyun Fan, Fengyuan Zhu, Xiaohua Tian, Linghe Kong, "Push the Limit of Single-Chip mmWave Radar-Based Egomotion Estimation with Moving Objects in FoV", the 21st ACM Conference on Embedded Networked Sensor Systems (SenSys 2023), Istanbul, Turkey, November 2023.
