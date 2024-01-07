@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ding Jianrong / Personal Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : Ding Jianrong # &name "Your Name"
 description              : &description "personal description"
