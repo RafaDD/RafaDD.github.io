@@ -16,4 +16,4 @@ author_profile: true
 
 <p style="font-size: 16px;"><b>Jianrong Ding</b>*, Zhanyu Liu*, Guanjie Zheng, Haiming Jin, Linghe Kong, "CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting", <i>arXiv preprint arXiv:2406.02131</i>, 2024</p>
 
-<p style="font-size: 16px;">Kan Wu, <b>Jianrong Ding</b>, Jingli Lin, Guanjie Zheng, Qian Huang, Tu Xu, Yongdong Zhu, Baojing Gu, "Cost-effective mitigation of urban congestion with adaptive traffic signal control", <a href="[url](https://doi.org/10.21203/rs.3.rs-3176883/v1)">preprint available at Research Square</a></p>
+<p style="font-size: 16px;">Kan Wu, <b>Jianrong Ding</b>, Jingli Lin, Guanjie Zheng, Qian Huang, Tu Xu, Yongdong Zhu, Baojing Gu, "Cost-effective mitigation of urban congestion with adaptive traffic signal control", <a href="https://doi.org/10.21203/rs.3.rs-3176883/v1">preprint available at Research Square</a></p>
