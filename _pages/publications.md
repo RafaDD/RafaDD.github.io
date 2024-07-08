@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h2>Conference Papers</h2>
+<h2 style="margin-top: 0">Conference Papers</h2>
 
 <p style="font-size: 16px;">Zhanyu Liu, <b>Jianrong Ding</b>, Guanjie Zheng, "Frequency Enhanced Pre-training for Cross-city Few-shot Traffic Forecasting", <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2024</i> <b>(ECML PKDD 2024)</b></p>
 
