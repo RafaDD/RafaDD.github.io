@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "丁健容"
-  avatar           : "self-photo.png"
-  bio              : "Hi, this is Ding Jianrong, you can also call me Rafael for short."
-  location         : "Shanghai, China"
+  avatar           : "self-photo.jpg"
+  bio              : "Hi, this is Ding Jianrong."
+  location         : "San Diego, US" # "Shanghai, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?user=O-xoSwUAAAAJ&hl=en # "http://yourfullgooglescholarurl.com"
   email            : rafaelding@sjtu.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
