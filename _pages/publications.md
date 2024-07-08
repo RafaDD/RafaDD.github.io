@@ -1,4 +1,5 @@
 ---
+layout: compress
 permalink: /publications/
 author_profile: true
 ---
