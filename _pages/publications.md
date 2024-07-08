@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: default
 permalink: /publications/
 author_profile: true
 ---
