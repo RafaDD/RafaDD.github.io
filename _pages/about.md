@@ -26,7 +26,7 @@ I'm advised by [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/) of CILAB
 </div>
 
 <div style="display: flex; align-items: center; padding: 10px; margin: 10px 0;">
-    <img src="/images/nsfz.png" alt="Education Icon" style="width: 72px; height: 90px; margin-right: 19px; margin-bottom: 10px; object-fit: fill;">
+    <img src="/images/nsfz.png" alt="Education Icon" style="width: 80px; height: 90px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
         <h3 style="margin: 0; font-size: 1em;">High School Affiliated to Nanjing Normal University</h3>
         <p style="margin: 5px 0; color: #444; font-size: 0.9em;">High School</p>
