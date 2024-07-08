@@ -5,10 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-<p style="font-size: 16px;">Zhanyu Liu, **Jianrong Ding**, Guanjie Zheng, "Frequency Enhanced Pre-training for Cross-city Few-shot Traffic Forecasting", *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2024* **(ECML PKDD 2024)**</p>
+<h3>Conference Papers</h3>
 
-<p style="font-size: 16px;">Ziyang Su, Zhanyu Liu, **Jianrong Ding**, Guanjie Zheng, "POI-based Traffic Generation via Supervised Contrastive Learning on Reconstructed Graph", *The 29th International Conference on Database Systems for Advanced Applications* **(DASFAA 2024)**</p>
+<p style="font-size: 16px;">Zhanyu Liu, <b>Jianrong Ding</b>, Guanjie Zheng, "Frequency Enhanced Pre-training for Cross-city Few-shot Traffic Forecasting", <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2024</i> <b>(ECML PKDD 2024)</b></p>
 
-<p style="font-size: 16px;">Rong Ding, Haiming Jin, **Jianrong Ding**, Xiaocheng Wang, Guiyun Fan, Fengyuan Zhu, Xiaohua Tian, Linghe Kong, "Push the Limit of Single-Chip mmWave Radar-Based Egomotion Estimation with Moving Objects in FoV", *The 21st ACM Conference on Embedded Networked Sensor Systems* **(SenSys 2023)**</p>
+<p style="font-size: 16px;">Ziyang Su, Zhanyu Liu, <b>Jianrong Ding</b>, Guanjie Zheng, "POI-based Traffic Generation via Supervised Contrastive Learning on Reconstructed Graph", <i>The 29th International Conference on Database Systems for Advanced Applications</i> <b>(DASFAA 2024)</b></p>
 
-<p style="font-size: 16px;">Kan Wu, **Jianrong Ding**, Jingli Lin, Guanjie Zheng, Qian Huang, Tu Xu, Yongdong Zhu, Baojing Gu, "Cost-effective mitigation of urban congestion with adaptive traffic signal control", [PREPRINT available at Research Square](https://doi.org/10.21203/rs.3.rs-3176883/v1)</p>
+<p style="font-size: 16px;">Rong Ding, Haiming Jin, <b>Jianrong Ding</b>, Xiaocheng Wang, Guiyun Fan, Fengyuan Zhu, Xiaohua Tian, Linghe Kong, "Push the Limit of Single-Chip mmWave Radar-Based Egomotion Estimation with Moving Objects in FoV", <i>The 21st ACM Conference on Embedded Networked Sensor Systems</i> <b>(SenSys 2023)</b></p>
+
+<h3>Preprints</h3>
+
+<p style="font-size: 16px;"><b>Jianrong Ding</b>*, Zhanyu Liu*, Guanjie Zheng, Haiming Jin, Linghe Kong, "CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting", <i>arXiv preprint arXiv:2406.02131</i>, 2024</p>
+
+<p style="font-size: 16px;">Kan Wu, <b>Jianrong Ding</b>, Jingli Lin, Guanjie Zheng, Qian Huang, Tu Xu, Yongdong Zhu, Baojing Gu, "Cost-effective mitigation of urban congestion with adaptive traffic signal control", <a href="[url](https://doi.org/10.21203/rs.3.rs-3176883/v1)">preprint available at Research Square</a></p>
