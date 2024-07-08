@@ -20,8 +20,8 @@ I'm advised by [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/) of CILAB
     <img src="/images/sjtu.png" alt="Education Icon" style="width: 90px; height: 90px; margin-right: 10px; margin-bottom: 10px; object-fit: cover;">
     <div>
         <h3 style="margin: 0; font-size: 1em;">Shanghai Jiao Tong University</h3>
-        <p style="margin: 5px 0; color: #aaa; font-size: 0.9em;">Bachelor of Engineering in Artificial Intelligence</p>
-        <p style="color: #aaa; font-size: 0.8em;">September 2021 - June 2025 (expected)</p>
+        <p style="margin: 5px 0; color: #ccc; font-size: 0.9em;">Bachelor of Engineering in Artificial Intelligence</p>
+        <p style="color: #ccc; font-size: 0.8em;">September 2021 - June 2025 (expected)</p>
     </div>
 </div>
 
@@ -29,6 +29,6 @@ I'm advised by [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/) of CILAB
     <img src="/images/nsfz.png" alt="Education Icon" style="width: 90px; height: 90px; margin-right: 10px; margin-bottom: 10px; object-fit: cover;">
     <div>
         <h3 style="margin: 0; font-size: 1em;">High School Affiliated to Nanjing Normal University</h3>
-        <p style="margin: 5px 0; color: #aaa; font-size: 0.9em;">High School</p>
-        <p style="color: #aaa; font-size: 0.8em;">September 2018 - June 2021</p>
+        <p style="margin: 5px 0; color: #ccc; font-size: 0.9em;">High School</p>
+        <p style="color: #ccc; font-size: 0.8em;">September 2018 - June 2021</p>
     </div>
