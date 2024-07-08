@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h2 style="margin-top: 6px">Conference Papers</h2>
+<h2 style="margin-top: 3px">Conference Papers</h2>
 
 <p style="font-size: 16px;">Zhanyu Liu, <b>Jianrong Ding</b>, Guanjie Zheng, "Frequency Enhanced Pre-training for Cross-city Few-shot Traffic Forecasting", <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2024</i> <b>(ECML PKDD 2024)</b></p>
 
@@ -12,7 +12,7 @@ author_profile: true
 
 <p style="font-size: 16px;">Rong Ding, Haiming Jin, <b>Jianrong Ding</b>, Xiaocheng Wang, Guiyun Fan, Fengyuan Zhu, Xiaohua Tian, Linghe Kong, "Push the Limit of Single-Chip mmWave Radar-Based Egomotion Estimation with Moving Objects in FoV", <i>the 21st ACM Conference on Embedded Networked Sensor Systems</i> <b>(SenSys 2023)</b></p>
 
-<h2>Preprints</h2>
+<h2 style="margin-top: 6px">Preprints</h2>
 
 <p style="font-size: 16px;"><b>Jianrong Ding</b>*, Zhanyu Liu*, Guanjie Zheng, Haiming Jin, Linghe Kong, "CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting", <i>arXiv preprint arXiv:2406.02131</i>, 2024</p>
 
