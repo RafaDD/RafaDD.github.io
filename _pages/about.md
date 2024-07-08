@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<h2>About me</h2>
+<h2 style="margin-top: 6px">About me</h2>
 
 I'm a junior undergraduate student at School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. My research interest includes machine learning, artificial intelligence and data mining. 
 
