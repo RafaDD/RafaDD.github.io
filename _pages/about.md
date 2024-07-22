@@ -44,9 +44,9 @@ I'm advised by [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/) of CILAB
 </div>
 
 <h2>Award and Scholarship</h2>
-<h4 style="margin: 0; font-size: 1em;">ZhiYuan Scholarship, Shanghai Jiao Tong University</h4>
-<p style="margin: 5px 0; color: #444; font-size: 1em;">2023, 2022, 2021</p>
-<h4 style="margin: 0; font-size: 1em;">C-Class Excellence Scholarship, Shanghai Jiao Tong University</h4>
-<p style="margin: 5px 0; color: #444; font-size: 1em;">2023, 2022</p>
-<h4 style="margin: 0; font-size: 1em;">2nd Prize in Provincial Level, Contemporary Undergraduate Mathematical Contest in Modeling</h4>
-<p style="margin: 5px 0; color: #444; font-size: 1em;">2022</p>
+<h4 style="margin: 0; font-size: 0.8em;">ZhiYuan Scholarship, Shanghai Jiao Tong University</h4>
+<p style="margin: 5px 0; color: #444; font-size: 0.8em;">2023, 2022, 2021</p>
+<h4 style="margin: 0; font-size: 0.8em;">C-Class Excellence Scholarship, Shanghai Jiao Tong University</h4>
+<p style="margin: 5px 0; color: #444; font-size: 0.8em;">2023, 2022</p>
+<h4 style="margin: 0; font-size: 0.8em;">2nd Prize in Provincial Level, Contemporary Undergraduate Mathematical Contest in Modeling</h4>
+<p style="margin: 5px 0; color: #444; font-size: 0.8em;">2022</p>
