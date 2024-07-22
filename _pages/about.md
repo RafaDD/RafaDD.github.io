@@ -12,9 +12,18 @@ redirect_from:
 
 I'm a junior undergraduate student from Shanghai Jiao Tong University, majoring in artificial intelligence. My research interest includes machine learning and data mining. 
 
-I'm advised by [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/) of CILAB from John Hopcroft Center for Computer Science, Shanghai Jiao Tong University. From July to September 2024, I worked as a student intern in the laboratory of [Prof. Xinyu Zhang](http://xyzhang.ucsd.edu/) from ECE, UC San Diego.
+I'm advised by [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/) of CILAB from John Hopcroft Center for Computer Science, Shanghai Jiao Tong University. From June to September 2024, I worked as a student intern in the laboratory of [Prof. Xinyu Zhang](http://xyzhang.ucsd.edu/) from ECE, UC San Diego.
 
 <h2>Education</h2>
+
+<div style="display: flex; align-items: center; padding: 10px; margin: 10px 0;">
+    <img src="/images/ucsd.svg" alt="Education Icon" style="width: 90px; height: 90px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
+    <div>
+        <h3 style="margin: 0; font-size: 1em;">University of California San Diego</h3>
+        <p style="margin: 5px 0; color: #444; font-size: 0.9em;">Research Assistant</p>
+        <p style="color: #444; font-size: 0.8em;">June 2024 - September 2024</p>
+    </div>
+</div>
 
 <div style="display: flex; align-items: center; padding: 10px; margin: 10px 0;">
     <img src="/images/sjtu.png" alt="Education Icon" style="width: 90px; height: 90px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
@@ -32,3 +41,12 @@ I'm advised by [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/) of CILAB
         <p style="margin: 5px 0; color: #444; font-size: 0.9em;">High School</p>
         <p style="color: #444; font-size: 0.8em;">September 2018 - June 2021</p>
     </div>
+</div>
+
+<h2>Award and Scholarship</h2>
+<h3 style="margin: 0; font-size: 1em;">ZhiYuan Scholarship, Shanghai Jiao Tong University</h3>
+<p style="margin: 5px 0; color: #444; font-size: 1em;">2023, 2022, 2021</p>
+<h3 style="margin: 0; font-size: 1em;">C-Class Excellence Scholarship, Shanghai Jiao Tong University</h3>
+<p style="margin: 5px 0; color: #444; font-size: 1em;">2023, 2022</p>
+<h3 style="margin: 0; font-size: 1em;">2nd Prize in Provincial Level, Contemporary Undergraduate Mathematical Contest in Modeling</h3>
+<p style="margin: 5px 0; color: #444; font-size: 1em;">2022</p>
