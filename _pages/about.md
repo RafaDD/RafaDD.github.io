@@ -17,15 +17,6 @@ I'm advised by [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/) of CILAB
 <h2>Education</h2>
 
 <div style="display: flex; align-items: center; padding: 10px; margin: 10px 0;">
-    <img src="/images/ucsd.svg" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
-    <div>
-        <h3 style="margin: 0; font-size: 0.9em;">University of California San Diego</h3>
-        <p style="margin: 5px 0; color: #444; font-size: 0.7em;">Research Assistant</p>
-        <p style="color: #444; font-size: 0.7em;">June 2024 - September 2024</p>
-    </div>
-</div>
-
-<div style="display: flex; align-items: center; padding: 10px; margin: 10px 0;">
     <img src="/images/sjtu.png" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">Shanghai Jiao Tong University</h3>
@@ -41,6 +32,18 @@ I'm advised by [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/) of CILAB
         <h3 style="margin: 0; font-size: 0.9em;">High School Affiliated to Nanjing Normal University</h3>
         <p style="margin: 5px 0; color: #444; font-size: 0.7em;">High School</p>
         <p style="color: #444; font-size: 0.7em;">September 2018 - June 2021</p>
+    </div>
+</div>
+
+<h2>Internship</h2>
+
+
+<div style="display: flex; align-items: center; padding: 10px; margin: 10px 0;">
+    <img src="/images/ucsd.svg" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
+    <div>
+        <h3 style="margin: 0; font-size: 0.9em;">University of California San Diego</h3>
+        <p style="margin: 5px 0; color: #444; font-size: 0.7em;">Research Assistant</p>
+        <p style="color: #444; font-size: 0.7em;">June 2024 - September 2024</p>
     </div>
 </div>
 
