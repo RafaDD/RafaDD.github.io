@@ -21,9 +21,9 @@ author_profile: true
 <p style="margin: 0; font-size: 15px;">Rong Ding, Haiming Jin, <b>Jianrong Ding</b>, Xiaocheng Wang, Guiyun Fan, Fengyuan Zhu, Xiaohua Tian, Linghe Kong</p>
 <p style="margin: 0; font-size: 15px;"><i>the 21st ACM Conference on Embedded Networked Sensor Systems</i> <b>(SenSys 2023)</b></p>
 <p style="margin: 0; font-size: 15px;"><a href="https://dl.acm.org/doi/10.1145/3625687.3625795">[paper]</a>
-<p style="margin: 2; font-size: 8px;"></p>
+<p style="margin: 2; font-size: 10px;"></p>
 
-<h2 style="margin-top: 10px">Preprints</h2>
+<h2 style="margin-top: 2">Preprints</h2>
 
 <p style="margin: 0; font-size: 18px;"><b>Frequency Enhanced Pre-training for Cross-city Few-shot Traffic Forecasting</b></p>
 <p style="margin: 0; font-size: 15px;"><b>Jianrong Ding</b>*, Zhanyu Liu*, Guanjie Zheng, Haiming Jin, Linghe Kong</p>
