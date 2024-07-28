@@ -6,7 +6,10 @@ author_profile: true
 
 <h2 style="margin-top: 1px">Conference Papers</h2>
 
-<p style="font-size: 16px;">Zhanyu Liu, <b>Jianrong Ding</b>, Guanjie Zheng, "Frequency Enhanced Pre-training for Cross-city Few-shot Traffic Forecasting", <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2024</i> <b>(ECML PKDD 2024)</b></p>
+<b>"Frequency Enhanced Pre-training for Cross-city Few-shot Traffic Forecasting"</b>
+<p style="font-size: 16px;">Zhanyu Liu, <b>Jianrong Ding</b>, Guanjie Zheng</p>
+<p style="font-size: 16px;"><i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2024</i> <b>(ECML PKDD 2024)</b></p>
+<a href="https://arxiv.org/abs/2406.02614">[paper]</a>  <a href="https://github.com/RafaDD/FEPCross">[code]</a>
 
 <p style="font-size: 16px;">Ziyang Su, Zhanyu Liu, <b>Jianrong Ding</b>, Guanjie Zheng, "POI-based Traffic Generation via Supervised Contrastive Learning on Reconstructed Graph", <i>the 29th International Conference on Database Systems for Advanced Applications</i> <b>(DASFAA 2024)</b></p>
 
