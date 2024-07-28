@@ -23,7 +23,7 @@ author_profile: true
 <p style="margin: 0; font-size: 15px;"><a href="https://dl.acm.org/doi/10.1145/3625687.3625795">[paper]</a>
 <p style="margin: 1; font-size: 8px;"></p>
 
-<h2 style="margin-top: 6px">Preprints</h2>
+<h2 style="margin-top: 10px">Preprints</h2>
 
 <p style="margin: 0; font-size: 18px;"><b>Frequency Enhanced Pre-training for Cross-city Few-shot Traffic Forecasting</b></p>
 <p style="margin: 0; font-size: 15px;"><b>Jianrong Ding</b>*, Zhanyu Liu*, Guanjie Zheng, Haiming Jin, Linghe Kong</p>
