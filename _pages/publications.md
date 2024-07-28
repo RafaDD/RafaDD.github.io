@@ -25,7 +25,7 @@ author_profile: true
 
 <h2 style="margin-top: 0">Preprints</h2>
 
-<p style="margin: 0; font-size: 17px;"><b>Frequency Enhanced Pre-training for Cross-city Few-shot Traffic Forecasting</b></p>
+<p style="margin: 0; font-size: 17px;"><b>CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting</b></p>
 <p style="margin: 0; font-size: 15px;"><b>Jianrong Ding</b>*, Zhanyu Liu*, Guanjie Zheng, Haiming Jin, Linghe Kong</p>
 <p style="margin: 0; font-size: 15px;"><i>arXiv preprint arXiv:2406.02131</i>, 2024</p>
 <p style="margin: 0; font-size: 15px;"><a href="https://arxiv.org/abs/2406.02131">[paper]</a>  <a href="https://github.com/RafaDD/CondTSF">[code]</a>
