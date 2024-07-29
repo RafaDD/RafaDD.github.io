@@ -33,5 +33,5 @@ author_profile: true
 
 <p style="margin: 0; font-size: 17px;"><b>Cost-effective mitigation of urban congestion with adaptive traffic signal control</b></p>
 <p style="margin: 0; font-size: 15px;">Kan Wu, <b>Jianrong Ding</b>, Jingli Lin, Guanjie Zheng, Qian Huang, Tu Xu, Yongdong Zhu, Baojing Gu</p>
-<p style="margin: 0; font-size: 15px;">preprint available at Research Square</p>
+<p style="margin: 0; font-size: 15px;">preprint available at Research Square, 2023</p>
 <p style="margin: 0; font-size: 15px;"><a href="https://doi.org/10.21203/rs.3.rs-3176883/v1">[paper]</a>  <a href="https://github.com/Kanstarry9T/Cong_ATSC">[code]</a>
