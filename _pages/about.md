@@ -14,7 +14,7 @@ I'm a junior undergraduate student from Shanghai Jiao Tong University, majoring 
 
 I'm advised by [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/) of CILAB from John Hopcroft Center for Computer Science, Shanghai Jiao Tong University. From June to September 2024, I worked as a student intern in the laboratory of [Prof. Xinyu Zhang](http://xyzhang.ucsd.edu/) from ECE, UC San Diego.
 
-<h2>Education</h2>
+<h2 style="margin-top: 1px">Education</h2>
 
 <div style="display: flex; align-items: center; padding: 10px; margin: 10px 0;">
     <img src="/images/sjtu.png" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
@@ -35,7 +35,7 @@ I'm advised by [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/) of CILAB
     </div>
 </div>
 
-<h2>Internship</h2>
+<h2 style="margin-top: 1px">Internship</h2>
 
 
 <div style="display: flex; align-items: center; padding: 10px; margin: 10px 0;">
@@ -47,7 +47,7 @@ I'm advised by [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/) of CILAB
     </div>
 </div>
 
-<h2>Award and Scholarship</h2>
+<h2 style="margin-top: 1px">Award and Scholarship</h2>
 <h4 style="margin: 0; font-size: 0.8em;">ZhiYuan Scholarship, Shanghai Jiao Tong University</h4>
 <p style="margin: 5px 0; color: #444; font-size: 0.8em;">2023, 2022, 2021</p>
 <h4 style="margin: 0; margin-top: 12px; font-size: 0.8em;">C-Class Excellence Scholarship, Shanghai Jiao Tong University</h4>
