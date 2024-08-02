@@ -35,7 +35,7 @@ I'm advised by [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/) of CILAB
     </div>
 </div>
 
-<h2 style="margin-top: 1px">Internship</h2>
+<h2 style="margin-top: 1px">Experience</h2>
 
 
 <div style="display: flex; align-items: center; padding: 10px; margin: 10px 0;">
