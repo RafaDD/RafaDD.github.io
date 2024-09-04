@@ -17,7 +17,7 @@ I'm advised by [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/) of CILAB
 <h2 style="margin-top: 1px">Education</h2>
 
 <div style="display: flex; align-items: center; padding: 10px; margin: 10px 0;">
-    <img src="/images/sjtu.png" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
+    <img src="/images/sjtu.png" alt="Education Icon" style="width: 77px; height: 77px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
         <h3 style="margin: 0; font-size: 1.0em;">Shanghai Jiao Tong University</h3>
         <p style="margin: 5px 0; color: #444; font-size: 0.9em;">B.S. in Artificial Intelligence (Honor Class)</p>
@@ -27,7 +27,7 @@ I'm advised by [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/) of CILAB
 
 
 <div style="display: flex; align-items: center; padding: 10px; margin: 10px 0;">
-    <img src="/images/nsfz.png" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
+    <img src="/images/nsfz.png" alt="Education Icon" style="width: 77px; height: 77px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
         <h3 style="margin: 0; font-size: 1.0em;">High School Affiliated to Nanjing Normal University</h3>
         <p style="margin: 5px 0; color: #444; font-size: 0.9em;">High School</p>
@@ -39,7 +39,7 @@ I'm advised by [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/) of CILAB
 
 
 <div style="display: flex; align-items: center; padding: 10px; margin: 10px 0;">
-    <img src="/images/ucsd.svg" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
+    <img src="/images/ucsd.svg" alt="Education Icon" style="width: 77px; height: 77px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
         <h3 style="margin: 0; font-size: 1.0em;">University of California San Diego</h3>
         <p style="margin: 5px 0; color: #444; font-size: 0.9em;">Research Assistant, Advisor: Prof. Xinyu Zhang</p>
