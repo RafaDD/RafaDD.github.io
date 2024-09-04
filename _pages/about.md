@@ -19,9 +19,9 @@ I'm advised by [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/) of CILAB
 <div style="display: flex; align-items: center; padding: 10px; margin: 10px 0;">
     <img src="/images/sjtu.png" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
-        <h3 style="margin: 0; font-size: 0.9em;">Shanghai Jiao Tong University</h3>
-        <p style="margin: 5px 0; color: #444; font-size: 0.8em;">B.S. in Artificial Intelligence (Honor Class)</p>
-        <p style="color: #444; font-size: 0.7em;">September 2021 - June 2025 (expected)</p>
+        <h3 style="margin: 0; font-size: 1.0em;">Shanghai Jiao Tong University</h3>
+        <p style="margin: 5px 0; color: #444; font-size: 0.9em;">B.S. in Artificial Intelligence (Honor Class)</p>
+        <p style="color: #444; font-size: 0.8em;">September 2021 - June 2025 (expected)</p>
     </div>
 </div>
 
@@ -29,9 +29,9 @@ I'm advised by [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/) of CILAB
 <div style="display: flex; align-items: center; padding: 10px; margin: 10px 0;">
     <img src="/images/nsfz.png" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
-        <h3 style="margin: 0; font-size: 0.9em;">High School Affiliated to Nanjing Normal University</h3>
-        <p style="margin: 5px 0; color: #444; font-size: 0.8em;">High School</p>
-        <p style="color: #444; font-size: 0.7em;">September 2018 - June 2021</p>
+        <h3 style="margin: 0; font-size: 1.0em;">High School Affiliated to Nanjing Normal University</h3>
+        <p style="margin: 5px 0; color: #444; font-size: 0.9em;">High School</p>
+        <p style="color: #444; font-size: 0.8em;">September 2018 - June 2021</p>
     </div>
 </div>
 
@@ -41,16 +41,16 @@ I'm advised by [Prof. Guanjie Zheng](https://jhc.sjtu.edu.cn/~gjzheng/) of CILAB
 <div style="display: flex; align-items: center; padding: 10px; margin: 10px 0;">
     <img src="/images/ucsd.svg" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
-        <h3 style="margin: 0; font-size: 0.9em;">University of California San Diego</h3>
-        <p style="margin: 5px 0; color: #444; font-size: 0.8em;">Research Assistant, Advisor: Prof. Xinyu Zhang</p>
-        <p style="color: #444; font-size: 0.7em;">June 2024 - September 2024</p>
+        <h3 style="margin: 0; font-size: 1.0em;">University of California San Diego</h3>
+        <p style="margin: 5px 0; color: #444; font-size: 0.9em;">Research Assistant, Advisor: Prof. Xinyu Zhang</p>
+        <p style="color: #444; font-size: 0.8em;">June 2024 - September 2024</p>
     </div>
 </div>
 
 <h2 style="margin-top: 1px">Award and Scholarship</h2>
-<h4 style="margin: 0; font-size: 0.8em;">ZhiYuan Scholarship, Shanghai Jiao Tong University</h4>
+<h4 style="margin: 0; font-size: 0.9em;">ZhiYuan Scholarship, Shanghai Jiao Tong University</h4>
 <p style="margin: 5px 0; color: #444; font-size: 0.8em;">2023, 2022, 2021</p>
-<h4 style="margin: 0; margin-top: 12px; font-size: 0.8em;">C-Class Excellence Scholarship, Shanghai Jiao Tong University</h4>
+<h4 style="margin: 0; margin-top: 12px; font-size: 0.9em;">C-Class Excellence Scholarship, Shanghai Jiao Tong University</h4>
 <p style="margin: 5px 0; color: #444; font-size: 0.8em;">2023, 2022</p>
-<h4 style="margin: 0; margin-top: 12px; font-size: 0.8em;">2nd Prize in Provincial Level, Contemporary Undergraduate Mathematical Contest in Modeling</h4>
+<h4 style="margin: 0; margin-top: 12px; font-size: 0.9em;">2nd Prize in Provincial Level, Contemporary Undergraduate Mathematical Contest in Modeling</h4>
 <p style="margin: 5px 0; color: #444; font-size: 0.8em;">2022</p>
