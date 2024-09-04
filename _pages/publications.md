@@ -4,7 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h2 style="margin-top: 1px">Conference Papers</h2>
+<p style="margin: 0; font-size: 17px;"><b>CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting</b></p>
+<p style="margin: 0; font-size: 15px;"><b>Jianrong Ding</b>*, Zhanyu Liu*, Guanjie Zheng, Haiming Jin, Linghe Kong</p>
+<p style="margin: 0; font-size: 15px;"><i>arXiv preprint arXiv:2406.02131</i>, 2024</p>
+<p style="margin: 0; font-size: 15px;"><a href="https://arxiv.org/abs/2406.02131">[paper]</a>  <a href="https://github.com/RafaDD/CondTSF">[code]</a>
+<div style="height: 17px;"></div>
 
 <p style="margin: 0; font-size: 17px;"><b>Frequency Enhanced Pre-training for Cross-city Few-shot Traffic Forecasting</b></p>
 <p style="margin: 0; font-size: 15px;">Zhanyu Liu, <b>Jianrong Ding</b>, Guanjie Zheng</p>
@@ -22,14 +26,6 @@ author_profile: true
 <p style="margin: 0; font-size: 15px;"><i>the 21st ACM Conference on Embedded Networked Sensor Systems</i> <b>(SenSys 2023)</b></p>
 <p style="margin: 0; font-size: 15px;"><a href="https://dl.acm.org/doi/10.1145/3625687.3625795">[paper]</a>
 <div style="height: 25px;"></div>
-
-<h2 style="margin-top: 0">Preprints</h2>
-
-<p style="margin: 0; font-size: 17px;"><b>CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting</b></p>
-<p style="margin: 0; font-size: 15px;"><b>Jianrong Ding</b>*, Zhanyu Liu*, Guanjie Zheng, Haiming Jin, Linghe Kong</p>
-<p style="margin: 0; font-size: 15px;"><i>arXiv preprint arXiv:2406.02131</i>, 2024</p>
-<p style="margin: 0; font-size: 15px;"><a href="https://arxiv.org/abs/2406.02131">[paper]</a>  <a href="https://github.com/RafaDD/CondTSF">[code]</a>
-<div style="height: 17px;"></div>
 
 <p style="margin: 0; font-size: 17px;"><b>Cost-effective mitigation of urban congestion with adaptive traffic signal control</b></p>
 <p style="margin: 0; font-size: 15px;">Kan Wu, <b>Jianrong Ding</b>, Jingli Lin, Guanjie Zheng, Qian Huang, Tu Xu, Yongdong Zhu, Baojing Gu</p>
