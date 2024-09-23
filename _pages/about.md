@@ -10,7 +10,7 @@ redirect_from:
 
 <h2 style="margin-top: 1px">About me</h2>
 <p style="font-size: 0.9em;"> 
-I'm a junior undergraduate student from Shanghai Jiao Tong University, majoring in artificial intelligence. My research interest includes machine learning and data mining. 
+I'm a senior undergraduate student from Shanghai Jiao Tong University, majoring in artificial intelligence. My research interest includes machine learning and data mining. 
 
 <p style="font-size: 0.9em;"> 
 I'm advised by <a href="https://jhc.sjtu.edu.cn/~gjzheng/">Prof. Guanjie Zheng</a> of CILAB from John Hopcroft Center for Computer Science, Shanghai Jiao Tong University. From June to September 2024, I worked as a student intern in the laboratory of <a href="http://xyzhang.ucsd.edu/">Prof. Xinyu Zhang</a> from ECE, UC San Diego.
