@@ -9,7 +9,7 @@ author_profile: true
 
 <p style="margin: 0; font-size: 18px;">• <b>CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting</b></p>
 <p style="margin: 0; padding-left: 13px; font-size: 16px;"><b>Jianrong Ding</b>*, Zhanyu Liu*, Guanjie Zheng, Haiming Jin, Linghe Kong</p>
-<p style="margin: 0; padding-left: 13px; font-size: 16px;"><i>arXiv preprint arXiv:2406.02131</i>, 2024</p>
+<p style="margin: 0; padding-left: 13px; font-size: 16px;"><i>the 38th Annual Conference on Neural Information Processing Systems</i> <b>(NeurIPS 2024)</b></p>
 <p style="margin: 0; padding-left: 13px; font-size: 16px;"><a href="https://arxiv.org/abs/2406.02131">[paper]</a>  <a href="https://github.com/RafaDD/CondTSF">[code]</a>
 <div style="height: 20px;"></div>
 
