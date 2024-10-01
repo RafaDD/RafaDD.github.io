@@ -16,12 +16,13 @@ author_profile: true
 <p style="margin: 0; font-size: 16px;">• <b>Frequency Enhanced Pre-training for Cross-city Few-shot Traffic Forecasting</b></p>
 <p style="margin: 0; padding-left: 12px; font-size: 14px;">Zhanyu Liu, <b><u>Jianrong Ding</u></b>, Guanjie Zheng</p>
 <p style="margin: 0; padding-left: 12px; font-size: 14px;"><i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2024</i> <b>(ECML PKDD 2024)</b></p>
-<p style="margin: 0; padding-left: 12px; font-size: 14px;"><a href="https://arxiv.org/abs/2406.02614">[paper]</a>  <a href="https://github.com/RafaDD/FEPCross">[code]</a>
+<p style="margin: 0; padding-left: 12px; font-size: 14px;"><a href="https://link.springer.com/chapter/10.1007/978-3-031-70344-7_3">[paper]</a>  <a href="https://github.com/RafaDD/FEPCross">[code]</a>
 <div style="height: 20px;"></div>
 
 <p style="margin: 0; font-size: 16px;">• <b>POI-based Traffic Generation via Supervised Contrastive Learning on Reconstructed Graph</b></p>
 <p style="margin: 0; padding-left: 12px; font-size: 14px;">Ziyang Su, Zhanyu Liu, <b><u>Jianrong Ding</u></b>, Guanjie Zheng</p>
 <p style="margin: 0; padding-left: 12px; font-size: 14px;"><i>the 29th International Conference on Database Systems for Advanced Applications</i> <b>(DASFAA 2024)</b></p>
+<p style="margin: 0; padding-left: 12px; font-size: 14px;"><a href="https://link.springer.com/chapter/10.1007/978-981-97-5552-3_15">[paper]</a>
 <div style="height: 20px;"></div>
 
 <p style="margin: 0; font-size: 16px;">• <b>Push the Limit of Single-Chip mmWave Radar-Based Egomotion Estimation with Moving Objects in FoV</b></p>
