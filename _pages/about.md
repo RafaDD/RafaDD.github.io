@@ -56,3 +56,5 @@ I'm advised by <a href="https://jhc.sjtu.edu.cn/~gjzheng/">Prof. Guanjie Zheng</
 <p style="margin: 5px 0; color: #444; font-size: 0.8em;">2023, 2022</p>
 <h4 style="margin: 0; margin-top: 12px; font-size: 0.9em;">2nd Prize in Provincial Level, Contemporary Undergraduate Mathematical Contest in Modeling</h4>
 <p style="margin: 5px 0; color: #444; font-size: 0.8em;">2022</p>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=sn2zZVEnQb6wBXN1UGNLSx3JobkCpl_6AC1If4hiN4U'></script>
