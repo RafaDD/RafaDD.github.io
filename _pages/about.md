@@ -22,7 +22,7 @@ I'm advised by <a href="https://jhc.sjtu.edu.cn/~gjzheng/">Prof. Guanjie Zheng</
     <img src="/images/sjtu.png" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">Shanghai Jiao Tong University</h3>
-        <p style="margin: 5px 0; color: #444; font-size: 0.8em;">B.S. in Artificial Intelligence (Honor Class)</p>
+        <p style="margin: 5px 0; color: #444; font-size: 0.8em;">Bachelor in Artificial Intelligence (Honor Class)</p>
         <p style="color: #444; font-size: 0.7em;">September 2021 - June 2025 (expected)</p>
     </div>
 </div>
@@ -50,6 +50,8 @@ I'm advised by <a href="https://jhc.sjtu.edu.cn/~gjzheng/">Prof. Guanjie Zheng</
 </div>
 
 <h2 style="margin-top: 1px">Award and Scholarship</h2>
+<h4 style="margin: 0; font-size: 0.9em;">Nomination Award for RongChang Scholarship</h4>
+<p style="margin: 5px 0; color: #444; font-size: 0.8em;">2024</p>
 <h4 style="margin: 0; font-size: 0.9em;">ZhiYuan Scholarship, Shanghai Jiao Tong University</h4>
 <p style="margin: 5px 0; color: #444; font-size: 0.8em;">2023, 2022, 2021</p>
 <h4 style="margin: 0; margin-top: 12px; font-size: 0.9em;">C-Class Excellence Scholarship, Shanghai Jiao Tong University</h4>
