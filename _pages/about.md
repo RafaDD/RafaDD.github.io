@@ -50,12 +50,12 @@ I'm advised by <a href="https://jhc.sjtu.edu.cn/~gjzheng/">Prof. Guanjie Zheng</
 </div>
 
 <h2 style="margin-top: 1px">Award and Scholarship</h2>
-<h4 style="margin: 0; font-size: 0.9em;">Nomination Award for RongChang Scholarship</h4>
-<p style="margin: 5px 0; color: #444; font-size: 0.8em;">2024</p>
-<h4 style="margin: 0; font-size: 0.9em;">ZhiYuan Scholarship, Shanghai Jiao Tong University</h4>
-<p style="margin: 5px 0; color: #444; font-size: 0.8em;">2023, 2022, 2021</p>
-<h4 style="margin: 0; margin-top: 12px; font-size: 0.9em;">C-Class Excellence Scholarship, Shanghai Jiao Tong University</h4>
-<p style="margin: 5px 0; color: #444; font-size: 0.8em;">2023, 2022</p>
-<h4 style="margin: 0; margin-top: 12px; font-size: 0.9em;">2nd Prize in Provincial Level, Contemporary Undergraduate Mathematical Contest in Modeling</h4>
-<p style="margin: 5px 0; color: #444; font-size: 0.8em;">2022</p>
+<h4 style="margin: 0; font-size: 0.8em;">Nomination Award for RongChang Scholarship</h4>
+<p style="margin: 6px 0; color: #444; font-size: 0.7em;">2024</p>
+<h4 style="margin: 0; font-size: 0.8em;">ZhiYuan Scholarship, Shanghai Jiao Tong University</h4>
+<p style="margin: 6px 0; color: #444; font-size: 0.7em;">2023, 2022, 2021</p>
+<h4 style="margin: 0; margin-top: 12px; font-size: 0.8em;">C-Class Excellence Scholarship, Shanghai Jiao Tong University</h4>
+<p style="margin: 6px 0; color: #444; font-size: 0.7em;">2023, 2022</p>
+<h4 style="margin: 0; margin-top: 12px; font-size: 0.8em;">2nd Prize in Provincial Level, Contemporary Undergraduate Mathematical Contest in Modeling</h4>
+<p style="margin: 6px 0; color: #444; font-size: 0.7em;">2022</p>
 
