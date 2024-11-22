@@ -35,3 +35,12 @@ author_profile: true
 <p style="margin: 0; padding-left: 11px; font-size: 14px;">Kan Wu, <b><u>Jianrong Ding</u></b>, Jingli Lin, Guanjie Zheng, Qian Huang, Tu Xu, Yongdong Zhu, Baojing Gu</p>
 <p style="margin: 0; padding-left: 11px; font-size: 14px;"><i>preprint available at Research Square, 2023</i></p>
 <p style="margin: 0; padding-left: 11px; font-size: 14px;"><a href="https://doi.org/10.21203/rs.3.rs-3176883/v1">[paper]</a>  <a href="https://github.com/Kanstarry9T/Cong_ATSC">[code]</a>
+
+<div style="display: flex; align-items: center; padding: 0px; margin: 30px 0;">
+    <img src="/images/still-working.jpg" alt="Education Icon" style="width: 60px; height: 60px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
+    <div>
+        <h3 style="margin: 0; font-size: 0.9em;"></h3>
+        <p style="margin: 5px 0; font-size: 1.3em;"><b>Still working ...</b></p>
+        <p style="color: #444; font-size: 0.7em;"></p>
+    </div>
+</div>
