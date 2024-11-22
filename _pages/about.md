@@ -59,3 +59,11 @@ I'm advised by <a href="https://jhc.sjtu.edu.cn/~gjzheng/">Prof. Guanjie Zheng</
 <h4 style="margin: 0; margin-top: 12px; font-size: 0.8em;">2nd Prize in Provincial Level, Contemporary Undergraduate Mathematical Contest in Modeling</h4>
 <p style="margin: 6px 0; color: #444; font-size: 0.7em;">2022</p>
 
+<div style="display: flex; align-items: center; padding: 10px; margin: 30px 0;">
+    <img src="/images/still-working.jpg" alt="Education Icon" style="width: 50px; height: 50px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
+    <div>
+        <h3 style="margin: 0; font-size: 0.9em;"></h3>
+        <p style="margin: 5px 0; font-size: 1.3em;">Still working ...</p>
+        <p style="color: #444; font-size: 0.7em;"></p>
+    </div>
+</div>
