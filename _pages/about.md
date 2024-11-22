@@ -63,7 +63,7 @@ I'm advised by <a href="https://jhc.sjtu.edu.cn/~gjzheng/">Prof. Guanjie Zheng</
     <img src="/images/still-working.jpg" alt="Education Icon" style="width: 60px; height: 60px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
         <h3 style="margin: 0; font-size: 0.9em;"></h3>
-        <p style="margin: 5px 0; font-size: 1.3em;">Still working ...</p>
+        <p style="margin: 5px 0; font-size: 1.3em;"><b>Still working ...</b></p>
         <p style="color: #444; font-size: 0.7em;"></p>
     </div>
 </div>
