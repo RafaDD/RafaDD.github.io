@@ -39,6 +39,14 @@ I'm advised by <a href="https://jhc.sjtu.edu.cn/~gjzheng/">Prof. Guanjie Zheng</
 
 <h2 style="margin-top: 1px">Experience</h2>
 
+<div style="display: flex; align-items: center; padding: 10px; margin: 10px 0;">
+    <img src="/images/shanghai-ailab.png" alt="Education Icon" style="width: 70px; height: 52px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
+    <div>
+        <h3 style="margin: 0; font-size: 0.9em;">Shanghai Artificial Intelligence Laboratory</h3>
+        <p style="margin: 5px 0; color: #444; font-size: 0.8em;">Research Intern</p>
+        <p style="color: #444; font-size: 0.7em;">November 2024 - May 2025</p>
+    </div>
+</div>
 
 <div style="display: flex; align-items: center; padding: 10px; margin: 10px 0;">
     <img src="/images/ucsd.svg" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
