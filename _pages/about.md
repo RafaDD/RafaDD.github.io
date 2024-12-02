@@ -59,17 +59,17 @@ I'm advised by <a href="https://jhc.sjtu.edu.cn/~gjzheng/">Prof. Guanjie Zheng</
 
 <h2 style="margin-top: 1px">Award and Scholarship</h2>
 <h4 style="margin: 0; font-size: 0.8em;">Nomination Award for RongChang Technology Innovation Scholarship</h4>
-<p style="margin: 2px 0; color: #444; font-size: 0.7em;">2024</p>
-<h4 style="margin: 0; margin-top: 16px; font-size: 0.8em;">A-Class Overseas Research Scholarship, Shanghai Jiao Tong University</h4>
-<p style="margin: 2px 0; color: #444; font-size: 0.7em;">2024</p>
-<h4 style="margin: 0; margin-top: 16px; font-size: 0.8em;">ZhiYuan Honors Scholarship, Shanghai Jiao Tong University</h4>
-<p style="margin: 2px 0; color: #444; font-size: 0.7em;">2024, 2023, 2022, 2021</p>
-<h4 style="margin: 0; margin-top: 16px; font-size: 0.8em;">C-Class Excellence Scholarship, Shanghai Jiao Tong University</h4>
-<p style="margin: 2px 0; color: #444; font-size: 0.7em;">2024, 2023, 2022</p>
-<h4 style="margin: 0; margin-top: 16px; font-size: 0.8em;">2nd Prize in Provincial Level, Contemporary Undergraduate Mathematical Contest in Modeling</h4>
-<p style="margin: 2px 0; color: #444; font-size: 0.7em;">2022</p>
+<p style="margin: 2px 0; margin-bottom: 16px; color: #444; font-size: 0.7em;">2024</p>
+<h4 style="margin: 0; font-size: 0.8em;">A-Class Overseas Research Scholarship, Shanghai Jiao Tong University</h4>
+<p style="margin: 2px 0; margin-bottom: 16px; color: #444; font-size: 0.7em;">2024</p>
+<h4 style="margin: 0; font-size: 0.8em;">ZhiYuan Honors Scholarship, Shanghai Jiao Tong University</h4>
+<p style="margin: 2px 0; margin-bottom: 16px; color: #444; font-size: 0.7em;">2024, 2023, 2022, 2021</p>
+<h4 style="margin: 0; font-size: 0.8em;">C-Class Excellence Scholarship, Shanghai Jiao Tong University</h4>
+<p style="margin: 2px 0; margin-bottom: 16px; color: #444; font-size: 0.7em;">2024, 2023, 2022</p>
+<h4 style="margin: 0; font-size: 0.8em;">2nd Prize in Provincial Level, Contemporary Undergraduate Mathematical Contest in Modeling</h4>
+<p style="margin: 2px 0; margin-bottom: 16px; color: #444; font-size: 0.7em;">2022</p>
 
-<div style="display: flex; align-items: center; padding: 0px; margin: 30px 0;">
+<div style="display: flex; align-items: center; padding: 0px; margin: 14px 0;">
     <img src="/images/still-working.jpg" alt="Education Icon" style="width: 50px; height: 50px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
         <h3 style="margin: 0; font-size: 0.9em;"></h3>
