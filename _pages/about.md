@@ -10,15 +10,12 @@ redirect_from:
 
 <h2 style="margin-top: 1px">About me</h2>
 <p style="font-size: 0.9em;"> 
-I am an undergraduate student from Shanghai Jiao Tong University, majoring in artificial intelligence. My research interest includes machine learning and data mining. 
-
-<p style="font-size: 0.9em;"> 
-I'm advised by <a href="https://jhc.sjtu.edu.cn/~gjzheng/">Prof. Guanjie Zheng</a> of CILAB from John Hopcroft Center for Computer Science, Shanghai Jiao Tong University. From June to September 2024, I worked as a student intern in the laboratory of <a href="http://xyzhang.ucsd.edu/">Prof. Xinyu Zhang</a> from the Department of Electrical and Computer Engineering, UC San Diego.
+I am an undergraduate student from Shanghai Jiao Tong University, majoring in artificial intelligence. I'm advised by <a href="https://jhc.sjtu.edu.cn/~gjzheng/">Prof. Guanjie Zheng</a> of CILAB from John Hopcroft Center for Computer Science, Shanghai Jiao Tong University. From June to September 2024, I worked as a student intern in the laboratory of <a href="http://xyzhang.ucsd.edu/">Prof. Xinyu Zhang</a> from the Department of Electrical and Computer Engineering, UC San Diego.
 </p>
 
 <h2 style="margin-top: 1px">Education</h2>
 
-<div style="display: flex; align-items: center; padding: 10px; margin: 10px 0;">
+<div style="display: flex; align-items: center; padding: 10px; margin: 4px 0;">
     <img src="/images/sjtu.png" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">Shanghai Jiao Tong University</h3>
@@ -28,7 +25,7 @@ I'm advised by <a href="https://jhc.sjtu.edu.cn/~gjzheng/">Prof. Guanjie Zheng</
 </div>
 
 
-<div style="display: flex; align-items: center; padding: 10px; margin: 10px 0;">
+<div style="display: flex; align-items: center; padding: 10px; margin: 4px 0;">
     <img src="/images/nsfz.png" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">High School Affiliated to Nanjing Normal University</h3>
@@ -39,7 +36,7 @@ I'm advised by <a href="https://jhc.sjtu.edu.cn/~gjzheng/">Prof. Guanjie Zheng</
 
 <h2 style="margin-top: 1px">Experience</h2>
 
-<div style="display: flex; align-items: center; padding: 10px; margin: 10px 0;">
+<div style="display: flex; align-items: center; padding: 10px; margin: 4px 0;">
     <img src="/images/shanghai-ailab.png" alt="Education Icon" style="width: 70px; height: 52px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">Shanghai Artificial Intelligence Laboratory</h3>
@@ -48,7 +45,7 @@ I'm advised by <a href="https://jhc.sjtu.edu.cn/~gjzheng/">Prof. Guanjie Zheng</
     </div>
 </div>
 
-<div style="display: flex; align-items: center; padding: 10px; margin: 10px 0;">
+<div style="display: flex; align-items: center; padding: 10px; margin: 4px 0;">
     <img src="/images/ucsd.svg" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">University of California San Diego</h3>
