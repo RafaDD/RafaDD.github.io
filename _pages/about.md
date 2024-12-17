@@ -49,7 +49,7 @@ I am an undergraduate student from Shanghai Jiao Tong University, majoring in ar
     <img src="/images/ucsd.svg" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">University of California San Diego</h3>
-        <p style="margin: 5px 0; color: #444; font-size: 0.8em;">Research Assistant, Advisor: Prof. Xinyu Zhang</p>
+        <p style="margin: 5px 0; color: #444; font-size: 0.8em;">Research Assistant <i>advised by</i> Prof. Xinyu Zhang</p>
         <p style="color: #444; font-size: 0.7em;">June 2024 - September 2024</p>
     </div>
 </div>
