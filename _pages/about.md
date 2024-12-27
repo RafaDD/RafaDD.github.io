@@ -75,7 +75,12 @@ I am an undergraduate student from Shanghai Jiao Tong University, majoring in ar
 <h4 style="margin: 0; font-size: 0.8em;">2nd Prize in Provincial Level, Contemporary Undergraduate Mathematical Contest in Modeling</h4>
 <p style="margin-top: 0; margin-bottom: 16px; color: #444; font-size: 0.7em;"><i>2022</i></p>
 
-<h2 style="margin-top: 1px">Contact</h2>
-<b>Email: </b>rafaelding@sjtu.edu.cn
 
-Drop me an email if you are interested!
+<div style="display: flex; align-items: center; padding: 0px; margin: 30px 0;">
+    <img src="/images/still-working.jpg" alt="Education Icon" style="width: 50px; height: 50px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
+    <div>
+        <h3 style="margin: 0; font-size: 0.9em;"></h3>
+        <p style="margin: 5px 0; font-size: 0.9em;"><b>rafaelding@sjtu.edu.cn</b></p>
+        <p style="color: #444; font-size: 0.9em;">Drop me an email if you are interested!</p>
+    </div>
+</div>
