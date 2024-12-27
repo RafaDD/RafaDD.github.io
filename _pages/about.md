@@ -19,8 +19,8 @@ I am an undergraduate student from Shanghai Jiao Tong University, majoring in ar
     <img src="/images/sjtu.png" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">Shanghai Jiao Tong University</h3>
-        <p style="margin: 5px 0; color: #444; font-size: 0.8em;">Bachelor in Artificial Intelligence (Honor Class)</p>
-        <p style="color: #444; font-size: 0.7em;">September 2021 - June 2025 (expected)</p>
+        <p style="margin: 5px 0; color: #444; font-size: 0.8em;">B.S. in Artificial Intelligence (Honor Class)</p>
+        <p style="color: #444; font-size: 0.8em;"><i>September 2021 - June 2025 (expected)</i></p>
     </div>
 </div>
 
@@ -30,7 +30,7 @@ I am an undergraduate student from Shanghai Jiao Tong University, majoring in ar
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">High School Affiliated to Nanjing Normal University</h3>
         <p style="margin: 5px 0; color: #444; font-size: 0.8em;">High School</p>
-        <p style="color: #444; font-size: 0.7em;">September 2018 - June 2021</p>
+        <p style="color: #444; font-size: 0.8em;"><i>September 2018 - June 2021</i></p>
     </div>
 </div>
 
@@ -41,7 +41,16 @@ I am an undergraduate student from Shanghai Jiao Tong University, majoring in ar
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">Shanghai Artificial Intelligence Laboratory</h3>
         <p style="margin: 5px 0; color: #444; font-size: 0.8em;">Research Intern</p>
-        <p style="color: #444; font-size: 0.7em;">November 2024 - May 2025</p>
+        <p style="color: #444; font-size: 0.8em;"><i>November 2024 - present</i></p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center; padding: 5px 0 5px 10px; margin: 5px 0;">
+    <img src="/images/sjtu.png" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
+    <div>
+        <h3 style="margin: 0; font-size: 0.9em;">Shanghai Jiao Tong University</h3>
+        <p style="margin: 5px 0; color: #444; font-size: 0.8em;">Research Assistant <i>advised by</i> Prof. Guanjie Zheng</p>
+        <p style="color: #444; font-size: 0.8em;"><i>July 2022 - present</i></p>
     </div>
 </div>
 
@@ -50,21 +59,21 @@ I am an undergraduate student from Shanghai Jiao Tong University, majoring in ar
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">University of California San Diego</h3>
         <p style="margin: 5px 0; color: #444; font-size: 0.8em;">Research Assistant <i>advised by</i> Prof. Xinyu Zhang</p>
-        <p style="color: #444; font-size: 0.7em;">June 2024 - September 2024</p>
+        <p style="color: #444; font-size: 0.8em;"><i>June 2024 - September 2024</i></p>
     </div>
 </div>
 
 <h2 style="margin-top: 1px">Award and Scholarship</h2>
 <h4 style="margin: 0; font-size: 0.8em;">Nomination Award for RongChang Technology Innovation Scholarship</h4>
-<p style="margin-top: 0; margin-bottom: 16px; color: #444; font-size: 0.7em;">2024</p>
+<p style="margin-top: 0; margin-bottom: 16px; color: #444; font-size: 0.8em;"><i>2024</i></p>
 <h4 style="margin: 0; font-size: 0.8em;">A-Class Overseas Research Scholarship, Shanghai Jiao Tong University</h4>
-<p style="margin-top: 0; margin-bottom: 16px; color: #444; font-size: 0.7em;">2024</p>
+<p style="margin-top: 0; margin-bottom: 16px; color: #444; font-size: 0.8em;"><i>2024</i></p>
 <h4 style="margin: 0; font-size: 0.8em;">ZhiYuan Honors Scholarship, Shanghai Jiao Tong University</h4>
-<p style="margin-top: 0; margin-bottom: 16px; color: #444; font-size: 0.7em;">2024, 2023, 2022, 2021</p>
+<p style="margin-top: 0; margin-bottom: 16px; color: #444; font-size: 0.8em;"><i>2024, 2023, 2022, 2021</i></p>
 <h4 style="margin: 0; font-size: 0.8em;">C-Class Excellence Scholarship, Shanghai Jiao Tong University</h4>
-<p style="margin-top: 0; margin-bottom: 16px; color: #444; font-size: 0.7em;">2024, 2023, 2022</p>
+<p style="margin-top: 0; margin-bottom: 16px; color: #444; font-size: 0.8em;"><i>2024, 2023, 2022</i></p>
 <h4 style="margin: 0; font-size: 0.8em;">2nd Prize in Provincial Level, Contemporary Undergraduate Mathematical Contest in Modeling</h4>
-<p style="margin-top: 0; margin-bottom: 16px; color: #444; font-size: 0.7em;">2022</p>
+<p style="margin-top: 0; margin-bottom: 16px; color: #444; font-size: 0.8em;"><i>2022</i></p>
 
 <div style="display: flex; align-items: center; padding: 0px; margin: 14px 0;">
     <img src="/images/still-working.jpg" alt="Education Icon" style="width: 50px; height: 50px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
