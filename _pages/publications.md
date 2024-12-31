@@ -16,7 +16,7 @@ author_profile: true
 <p style="margin: 0; font-size: 16px;">• <b>Frequency Enhanced Pre-training for Cross-city Few-shot Traffic Forecasting</b></p>
 <p style="margin: 0; padding-left: 11px; font-size: 14px;">Zhanyu Liu, <b><u>Jianrong Ding</u></b>, Guanjie Zheng</p>
 <p style="margin: 0; padding-left: 11px; font-size: 14px;"><i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2024</i> <b>(ECML PKDD 2024)</b></p>
-<p style="margin: 0; padding-left: 11px; font-size: 14px;"><a href="https://link.springer.com/chapter/10.1007/978-3-031-70344-7_3">[paper]</a>  <a href="https://github.com/RafaDD/FEPCross">[code]</a>
+<p style="margin: 0; padding-left: 11px; font-size: 14px;"><a href="https://link.springer.com/chapter/10.1007/978-3-031-70344-7_3">[paper]</a>  <a href="https://github.com/zhyliu00/FEPCross">[code]</a>
 <div style="height: 20px;"></div>
 
 <p style="margin: 0; font-size: 16px;">• <b>POI-Based Traffic Generation via Supervised Contrastive Learning on Reconstructed Graph</b></p>
