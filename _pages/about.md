@@ -57,23 +57,22 @@ I am an undergraduate student from Shanghai Jiao Tong University, majoring in ar
 <h2 style="margin-top: 1px">Award and Scholarship</h2>
 <h4 style="margin: 0; font-size: 0.8em;">Nomination Award for RongChang Technology Innovation Scholarship</h4>
 <p style="margin-top: 0; margin-bottom: 0; color: #444; font-size: 0.7em;"><i>Shanghai Jiao Tong University</i></p>
-<p style="margin-top: 0; margin-bottom: 12px; color: #444; font-size: 0.7em;">2024</p>
+<p style="margin-top: 0; margin-bottom: 16px; color: #444; font-size: 0.7em;">2024</p>
 
 <h4 style="margin: 0; font-size: 0.8em;">A-Class Overseas Research Scholarship</h4>
 <p style="margin-top: 0; margin-bottom: 0; color: #444; font-size: 0.7em;"><i>Shanghai Jiao Tong University</i></p>
-<p style="margin-top: 0; margin-bottom: 12px; color: #444; font-size: 0.7em;">2024</p>
+<p style="margin-top: 0; margin-bottom: 16px; color: #444; font-size: 0.7em;">2024</p>
 
 <h4 style="margin: 0; font-size: 0.8em;">ZhiYuan Honors Scholarship</h4>
 <p style="margin-top: 0; margin-bottom: 0; color: #444; font-size: 0.7em;"><i>Shanghai Jiao Tong University</i></p>
-<p style="margin-top: 0; margin-bottom: 12px; color: #444; font-size: 0.7em;">2024, 2023, 2022, 2021</p>
+<p style="margin-top: 0; margin-bottom: 16px; color: #444; font-size: 0.7em;">2024, 2023, 2022, 2021</p>
 
 <h4 style="margin: 0; font-size: 0.8em;">C-Class Excellence Scholarship</h4>
 <p style="margin-top: 0; margin-bottom: 0; color: #444; font-size: 0.7em;"><i>Shanghai Jiao Tong University</i></p>
-<p style="margin-top: 0; margin-bottom: 12px; color: #444; font-size: 0.7em;">2024, 2023, 2022</p>
+<p style="margin-top: 0; margin-bottom: 16px; color: #444; font-size: 0.7em;">2024, 2023, 2022</p>
 
 <h4 style="margin: 0; font-size: 0.8em;">2nd Prize in Provincial Level, Contemporary Undergraduate Mathematical Contest in Modeling</h4>
-
-<p style="margin-top: 0; margin-bottom: 12px; color: #444; font-size: 0.7em;">2022</p>
+<p style="margin-top: 0; margin-bottom: 16px; color: #444; font-size: 0.7em;">2022</p>
 
 
 
