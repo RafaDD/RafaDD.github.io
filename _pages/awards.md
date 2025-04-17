@@ -4,7 +4,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-<h2 style="margin-top: 1px; margin-left: 11px;">Awards</h2>
+<h2 style="margin-top: 1px; margin-left: 5px;">Awards</h2>
 <div style="height: 10px;"></div>
 
 <p style="margin: 0; font-size: 16px;">• <b>Nomination Award for RongChang Technology Innovation Scholarship</b></p>
