@@ -16,7 +16,7 @@ I am an undergraduate student from Shanghai Jiao Tong University, majoring in ar
 <h2 style="margin-top: 1px">Education</h2>
 
 <div style="display: flex; align-items: center; padding: 5px 0 5px 10px; margin: 5px 0;">
-    <img src="/images/sjtu.png" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
+    <img src="/images/sjtu.png" alt="Education Icon" style="width: 90px; height: 90px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">Shanghai Jiao Tong University</h3>
         <p style="margin: 5px 0; color: #444; font-size: 0.8em;">B.E. in Artificial Intelligence (Honor Class)</p>
@@ -28,29 +28,32 @@ I am an undergraduate student from Shanghai Jiao Tong University, majoring in ar
 <h2 style="margin-top: 1px">Experience</h2>
 
 <div style="display: flex; align-items: center; padding: 5px 0 5px 10px; margin: 5px 0;">
-    <img src="/images/shanghai-ailab.png" alt="Education Icon" style="width: 70px; height: 52px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
+    <img src="/images/shanghai-ailab.png" alt="Education Icon" style="width: 90px; height: 67px; margin-right: 10px; margin-bottom: 0; object-fit: fill;">
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">Shanghai Artificial Intelligence Laboratory</h3>
-        <p style="margin: 5px 0; color: #444; font-size: 0.8em;">Research Intern</p>
+        <p style="margin: 5px 0 0 0; color: #444; font-size: 0.8em;">Research Intern</p>
+        <p style="margin: 5px 0; color: #444; font-size: 0.8em;">Topic: Model deployment</p>
         <p style="color: #444; font-size: 0.7em;"><i>November 2024 - present</i></p>
     </div>
 </div>
 
 <div style="display: flex; align-items: center; padding: 5px 0 5px 10px; margin: 5px 0;">
-    <img src="/images/sjtu.png" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
+    <img src="/images/ucsd.svg" alt="Education Icon" style="width: 90px; height: 90px; margin-right: 10px; margin-bottom: 0; object-fit: fill;">
     <div>
-        <h3 style="margin: 0; font-size: 0.9em;">Shanghai Jiao Tong University</h3>
-        <p style="margin: 5px 0; color: #444; font-size: 0.8em;">Research Assistant <i>advised by</i> Prof. Guanjie Zheng</p>
-        <p style="color: #444; font-size: 0.7em;"><i>July 2022 - present</i></p>
+        <h3 style="margin: 0; font-size: 0.9em;">University of California San Diego</h3>
+        <p style="margin: 5px 0 0 0; color: #444; font-size: 0.8em;">Research Assistant <i>advised by</i> Prof. Xinyu Zhang</p>
+        <p style="margin: 5px 0; color: #444; font-size: 0.8em;">Topic: Wireless sensing, Differentiable simulation</p>
+        <p style="color: #444; font-size: 0.7em;"><i>June 2024 - September 2024</i></p>
     </div>
 </div>
 
 <div style="display: flex; align-items: center; padding: 5px 0 5px 10px; margin: 5px 0;">
-    <img src="/images/ucsd.svg" alt="Education Icon" style="width: 70px; height: 70px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
+    <img src="/images/sjtu.png" alt="Education Icon" style="width: 90px; height: 90px; margin-right: 10px; margin-bottom: 0; object-fit: fill;">
     <div>
-        <h3 style="margin: 0; font-size: 0.9em;">University of California San Diego</h3>
-        <p style="margin: 5px 0; color: #444; font-size: 0.8em;">Research Assistant <i>advised by</i> Prof. Xinyu Zhang</p>
-        <p style="color: #444; font-size: 0.7em;"><i>June 2024 - September 2024</i></p>
+        <h3 style="margin: 0; font-size: 0.9em;">Shanghai Jiao Tong University</h3>
+        <p style="margin: 5px 0 0 0; color: #444; font-size: 0.8em;">Research Assistant <i>advised by</i> Prof. Guanjie Zheng</p>
+        <p style="margin: 5px 0; color: #444; font-size: 0.8em;">Topic: Time-series analysis, Dataset condensation</p>
+        <p style="color: #444; font-size: 0.7em;"><i>July 2022 - present</i></p>
     </div>
 </div>
 
