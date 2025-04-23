@@ -12,7 +12,8 @@ redirect_from:
 <p style="font-size: 0.9em;"> 
 
 Hi, my name is 丁健容 (Jianrong Ding). I am an undergraduate student from Shanghai Jiao Tong University, majoring in artificial intelligence. I'm advised by <a href="https://jhc.sjtu.edu.cn/~gjzheng/">Prof. Guanjie Zheng</a> from Shanghai Jiao Tong University. From June to September 2024, I worked as a student intern in the laboratory of <a href="http://xyzhang.ucsd.edu/">Prof. Xinyu Zhang</a> from University of California San Diego.
-
+</p>
+<p style="font-size: 0.9em;"> 
 Please reach out to me via email at <b>rafaelding@sjtu.edu.cn</b>.
 </p>
 
