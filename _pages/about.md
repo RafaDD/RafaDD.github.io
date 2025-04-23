@@ -24,7 +24,7 @@ Please reach out to me via email at <b>rafaelding@sjtu.edu.cn</b>.
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">Shanghai Jiao Tong University</h3>
         <p style="margin: 5px 0; color: #444; font-size: 0.8em;">B.E. in Artificial Intelligence (Honor Class)</p>
-        <p style="color: #444; font-size: 0.7em;"><i>September 2021 - June 2025 (expected)</i></p>
+        <p style="margin: 5px 0; color: #444; font-size: 0.7em;"><i>September 2021 - June 2025 (expected)</i></p>
     </div>
 </div>
 
@@ -36,7 +36,7 @@ Please reach out to me via email at <b>rafaelding@sjtu.edu.cn</b>.
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">Shanghai Artificial Intelligence Laboratory</h3>
         <p style="margin: 5px 0 0 0; color: #444; font-size: 0.8em;">Research Intern</p>
-        <p style="color: #444; font-size: 0.7em;"><i>November 2024 - April 2025</i></p>
+        <p style="margin: 5px 0; color: #444; font-size: 0.7em;"><i>November 2024 - April 2025</i></p>
     </div>
 </div>
 
@@ -45,8 +45,7 @@ Please reach out to me via email at <b>rafaelding@sjtu.edu.cn</b>.
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">University of California San Diego</h3>
         <p style="margin: 5px 0 0 0; color: #444; font-size: 0.8em;">Research Assistant <i>advised by</i> Prof. Xinyu Zhang</p>
-        <p style="margin: 5px 0; color: #444; font-size: 0.8em;">Topic: Wireless sensing, Differentiable simulation</p>
-        <p style="color: #444; font-size: 0.7em;"><i>June 2024 - September 2024</i></p>
+        <p style="margin: 5px 0; color: #444; font-size: 0.7em;"><i>June 2024 - September 2024</i></p>
     </div>
 </div>
 
@@ -55,7 +54,6 @@ Please reach out to me via email at <b>rafaelding@sjtu.edu.cn</b>.
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">Shanghai Jiao Tong University</h3>
         <p style="margin: 5px 0 0 0; color: #444; font-size: 0.8em;">Research Assistant <i>advised by</i> Prof. Guanjie Zheng</p>
-        <p style="margin: 5px 0; color: #444; font-size: 0.8em;">Topic: Time-series analysis, Dataset condensation</p>
-        <p style="color: #444; font-size: 0.7em;"><i>July 2022 - June 2025</i></p>
+        <p style="margin: 5px 0; color: #444; font-size: 0.7em;"><i>July 2022 - June 2025</i></p>
     </div>
 </div>
