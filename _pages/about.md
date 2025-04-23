@@ -36,7 +36,6 @@ Please reach out to me via email at <b>rafaelding@sjtu.edu.cn</b>.
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">Shanghai Artificial Intelligence Laboratory</h3>
         <p style="margin: 5px 0 0 0; color: #444; font-size: 0.8em;">Research Intern</p>
-        <p style="margin: 5px 0; color: #444; font-size: 0.8em;">Topic: Tx8 model deployment</p>
         <p style="color: #444; font-size: 0.7em;"><i>November 2024 - April 2025</i></p>
     </div>
 </div>
