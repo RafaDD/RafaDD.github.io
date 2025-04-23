@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h2 style="margin-top: 1px; margin-left: 5px;">📄 Publications</h2>
+<h2 style="margin-top: 1px;">📄 Publications</h2>
 <div style="height: 10px;"></div>
 
 <p style="margin: 0; font-size: 16px;"><b>Big-data Empowered Traffic Signal Control Could Reduce Urban Carbon Emission</b></p>
