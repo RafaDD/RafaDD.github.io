@@ -20,7 +20,7 @@ Please reach out to me via email at <b>rafaelding@sjtu.edu.cn</b>.
 <h2 style="margin-top: 1px">🎓 Education</h2>
 
 <div style="display: flex; align-items: center; padding: 5px 0 5px 10px; margin: 5px 0;">
-    <img src="/images/sjtu.png" alt="Education Icon" style="width: 90px; height: 90px; margin-right: 10px; margin-bottom: 15px; object-fit: fill;">
+    <img src="/images/sjtu.png" alt="Education Icon" style="width: 90px; height: 90px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">Shanghai Jiao Tong University</h3>
         <p style="margin: 5px 0; color: #444; font-size: 0.8em;">B.E. in Artificial Intelligence (Honor Class)</p>
@@ -32,7 +32,7 @@ Please reach out to me via email at <b>rafaelding@sjtu.edu.cn</b>.
 <h2 style="margin-top: 1px">💼 Experience</h2>
 
 <div style="display: flex; align-items: center; padding: 5px 0 5px 10px; margin: 5px 0;">
-    <img src="/images/shanghai-ailab.png" alt="Education Icon" style="width: 90px; height: 67px; margin-right: 10px; margin-bottom: 15px; object-fit: fill;">
+    <img src="/images/shanghai-ailab.png" alt="Education Icon" style="width: 90px; height: 67px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">Shanghai Artificial Intelligence Laboratory</h3>
         <p style="margin: 5px 0 0 0; color: #444; font-size: 0.8em;">Research Intern</p>
@@ -41,7 +41,7 @@ Please reach out to me via email at <b>rafaelding@sjtu.edu.cn</b>.
 </div>
 
 <div style="display: flex; align-items: center; padding: 5px 0 5px 10px; margin: 5px 0;">
-    <img src="/images/ucsd.svg" alt="Education Icon" style="width: 90px; height: 90px; margin-right: 10px; margin-bottom: 15px; object-fit: fill;">
+    <img src="/images/ucsd.svg" alt="Education Icon" style="width: 90px; height: 90px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">University of California San Diego</h3>
         <p style="margin: 5px 0 0 0; color: #444; font-size: 0.8em;">Research Assistant <i>advised by</i> Prof. Xinyu Zhang</p>
@@ -50,7 +50,7 @@ Please reach out to me via email at <b>rafaelding@sjtu.edu.cn</b>.
 </div>
 
 <div style="display: flex; align-items: center; padding: 5px 0 5px 10px; margin: 5px 0;">
-    <img src="/images/sjtu.png" alt="Education Icon" style="width: 90px; height: 90px; margin-right: 10px; margin-bottom: 15px; object-fit: fill;">
+    <img src="/images/sjtu.png" alt="Education Icon" style="width: 90px; height: 90px; margin-right: 10px; margin-bottom: 10px; object-fit: fill;">
     <div>
         <h3 style="margin: 0; font-size: 0.9em;">Shanghai Jiao Tong University</h3>
         <p style="margin: 5px 0 0 0; color: #444; font-size: 0.8em;">Research Assistant <i>advised by</i> Prof. Guanjie Zheng</p>
