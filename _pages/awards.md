@@ -7,7 +7,7 @@ author_profile: true
 <h2 style="margin-top: 1px;">🎖️ Awards</h2>
 <div style="height: 10px;"></div>
 
-<p style="margin: 0; font-size: 16px;"><b>Nomination Award for RongChang Technology Innovation Scholarship</b></p>
+<p style="margin: 0; font-size: 16px;"><b>Nomination Award for Rongchang Technology Innovation Scholarship</b></p>
 <p style="margin: 0; font-size: 14px;"><i>Shanghai Jiao Tong University</i><span style="padding: 0 4px;">•</span>2024</p>
 <div style="height: 20px;"></div>
 
