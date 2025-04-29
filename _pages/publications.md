@@ -9,7 +9,7 @@ author_profile: true
 
 <p style="margin: 0; font-size: 16px;"><b>Big-data Empowered Traffic Signal Control Could Reduce Urban Carbon Emission</b></p>
 <p style="margin: 0; font-size: 14px;">Kan Wu, <b><u>Jianrong Ding</u></b>, Jingli Lin, Guanjie Zheng, Yi Sun, Jie Fang, Tu Xu, Yongdong Zhu, Baojing Gu</p>
-<p style="margin: 0; font-size: 14px;"><i>Nature Communications</i>, <b>16</b>(1):2013, 2025</p>
+<p style="margin: 0; font-size: 14px;"><i>Nature Communications</i>, <b>16</b>(1), 2013, 2025</p>
 <p style="margin: 0; font-size: 14px;"><a href="https://www.nature.com/articles/s41467-025-56701-4">[paper]</a>  <a href="https://github.com/RafaDD/BigData-TSC">[code]</a>
 <div style="height: 20px;"></div>
 
